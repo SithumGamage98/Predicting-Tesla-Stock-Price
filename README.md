@@ -2,7 +2,7 @@
 ### Contributors
 #### W.G.S.S Gamage -           IT20666606 (Group Leader)
 #### M.K.T De Silva   -           IT20649180
-#### Amarakoon A.R.W.M.M.L.O. - IT20626792 
+#### Amarakoon A.R.W.M.M.L.O. -   IT20626792 
 #### This repository contains the code and documentation for our 4th year Machine Learning Module assignment. In this project, we utilized a dataset to apply various machine learning algorithms and evaluate their performance.
 
 ### Overview
